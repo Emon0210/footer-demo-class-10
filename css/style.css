@@ -1,0 +1,266 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.body {}
+
+
+
+
+/* ................ header section ................... */
+
+.header-section {}
+
+.header-section .container {
+
+    height: 50vh;
+    text-align: center;
+    padding-top: 50px;
+    text-transform: uppercase;
+
+}
+
+
+
+
+
+/* ...............footer section start.......... */
+
+
+.footer-section {
+    background: black;
+
+}
+
+.footer-section .container {
+
+    color: rgb(230, 224, 224);
+}
+
+
+
+.footer-section .container .row {
+    display: flex;
+    padding: 50px 0px;
+}
+
+
+
+
+
+
+.footer-section .container .row .col-4 {}
+
+.footer-section .container .row .col-4 h4 {
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+
+.footer-section .container .row .col-4 p {
+    font-size: 14px;
+    width: 90%;
+    padding: 10px 0px;
+
+}
+
+.footer-section .container .row .col-4 .icons {
+    font-size: 30px;
+    width: 100%;
+    margin-left: -38px;
+}
+
+.footer-section .container .row .col-4 .icons ul {
+
+
+    display: flex;
+}
+
+
+
+.footer-section .container .row .col-4 .icons ul li {
+
+    list-style-type: none;
+    color: #000;
+    font-size: 18px;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px 0px 5px 0px;
+    background-color: #fff;
+    margin-left: 5px;
+}
+
+
+.footer-section .container .row .col-4 .icons ul li:hover {
+
+
+    border-radius: 0px 5px 0px 5px;
+
+}
+
+
+
+
+
+
+
+.footer-section .container .row .col-4 .icons ul li i {}
+
+
+
+
+
+
+.footer-section .container .row .col-2 {}
+
+
+.footer-section .container .row .col-2 h4 {
+    text-transform: capitalize;
+    font-size: 20px;
+
+}
+
+
+.footer-section .container .row .col-2 h5 {
+
+    text-transform: capitalize;
+    font-size: 15px;
+    color: #8b8787;
+}
+
+
+
+
+
+
+
+.footer-section .container .row .col-4 .title {
+
+    text-transform: capitalize;
+}
+
+
+
+
+.footer-section .container .row .col-4 .title h4 {}
+
+
+.footer-section .container .row .col-4 form {}
+
+
+.footer-section .container .row .col-4 form input {
+
+    margin-bottom: 10px;
+    border-radius: 3px solid #fff;
+    padding: 8px 10px;
+}
+
+
+
+.footer-section .container .row .col-4 form a {
+
+    text-decoration: none;
+    border-radius: 3px solid rgb(214, 154, 49);
+    padding: 8px 0px;
+
+}
+
+
+.footer-section .container .row .col-4 form .btn-war {
+
+    color: rgb(236, 227, 227);
+    background: #d69a31;
+
+
+    width: 100%;
+
+}
+
+
+
+/* ...............footer section start.......... */
+
+
+
+
+
+/* ...............copyright section start.......... */
+
+
+
+
+
+.copyright-section {
+    background: #23262f;
+}
+
+
+
+.copyright-section .container {
+
+    display: flex;
+
+justify-content: space-between;
+   
+}
+
+
+
+
+
+
+.copyright-section .container  .navbar {
+
+    
+
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.copyright-section .container  .navbar ul {
+
+    display: flex;
+    padding:  4px 0px 0px 5px;
+
+    
+}
+
+
+
+.copyright-section .container  ul li {
+    list-style-type: none;
+font-size: 14px;
+    color: #8b8787;
+    margin-right: 15px;
+    text-transform: capitalize;
+
+
+}
+
+
+
+
+.copyright-section .container  .copyright {
+
+    
+    margin-right: -20px;
+    
+    padding:  15px 0px 0px 9px;
+   
+}
+
+
+
+.copyright-section .container  .copyright h6 {
+    font-size: 14px;
+    margin-right: 15px;
+    color: #8b8787;
+   
+}
